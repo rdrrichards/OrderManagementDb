@@ -231,5 +231,10 @@
     <Build Include="dbo\Sequences\entity_role_key_seq.sql" />
     <Build Include="dbo\Sequences\entity_entity_key_seq.sql" />
     <Build Include="Security\Permissions.sql" />
+    <Build Include="dbo\Stored Procedures\usp_entity_entity_ups.sql" />
+    <Build Include="dbo\Stored Procedures\usp_entity_entity_get.sql" />
+    <Build Include="dbo\Stored Procedures\usp_entity_entity_del.sql" />
+    <Build Include="dbo\Stored Procedures\usp_entity_entity_all_by_entity.sql" />
+    <Build Include="dbo\Stored Procedures\usp_entity_entity_all.sql" />
   </ItemGroup>
 </Project>
